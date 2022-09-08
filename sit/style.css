@@ -1,0 +1,80 @@
+body{font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif, "Century Gothic", sans-serif;
+    background-image:url("img/w3.jpg");
+    display: inline-block;
+    margin 0px;
+    padding:0px;
+}
+h1{
+    font-size: 60px;
+    color:black;
+    font-style: italic;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    text-decoration: underline;
+    text-shadow: 5px -6px 4px rgb(40, 44, 65);
+    backface-visibility: visible;
+    background:-moz-linear-gradient(right to left,red,blure,black,yellow);
+    background: -moz-radial-gradient(right to left,red,blure,black,yellow);
+    background: -webkit-gradient(right to left,red,blure,black,yellow);
+    background: -o-repeating-linear-gradient(right to left,red,blure,black,yellow);
+    background-color: rgb(50, 50, 175);
+}
+.c{font-size: 35px;
+    font-style: oblique;
+    color: rgb(48, 41, 41);
+    box-shadow: 4px -5px 6px;
+    border-radius: 15px;
+    float: left;
+    font-weight: 25%;
+    position: absolute;
+background-color: beige;
+}
+.d{
+    box-shadow: 5px 25px 50px rgb(112, 100, 100);
+    width: 70%;
+    height: 80%;
+    border-radius: 25px;
+   float: right;
+   left: 25px;
+   
+   background-image: url("img/w4.jpg");
+   ba
+}
+#ul{
+    text-align: start;
+    text-decoration: underline;
+    text-shadow: 2px 3px 5px black;
+    text-decoration-color:black;
+    color:black;
+    font-style: italic;
+}
+#g,#o{
+    color:black;
+    font-size: 12px;
+
+}
+#ds{
+    font-size: 100px;
+    color:black;
+    font-style: inherit;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align:left;
+    text-decoration:solid;
+    text-shadow: 5px -6px 4px rgb(30, 30, 31);
+}
+#m{
+    float:left;
+}
+img{
+    padding: 1px;
+    border: 1px  gray;
+    box-shadow: 0px 0px 17px rosybrown;
+    border-radius: 50px;
+bac
+}
+#ind{
+    background-image: url("img/ii.jpg");
+}
+.ad{
+    background-color: cornsilk;
+}
